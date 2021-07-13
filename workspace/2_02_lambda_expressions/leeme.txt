@@ -1,0 +1,16 @@
+completad el codigo de:
+
+src/org/formacion/LambdasFactory.java
+
+En la clase encontrareis información detallada de lo que debeis hacer.
+
+Las interfaces que vuestras lambda expressions deben implementar están en el mismo fichero,
+para facilitar el trabajo.
+
+Disponeis de un test en 
+
+test_src/org/formacion/TestLambdas.java
+
+para comprobar vuestro progreso
+
+¡Suerte!

@@ -1,0 +1,8 @@
+Sí !!! El Eclipse indica que hay errores en el proyecto!
+
+No os preocupeis : vuestro trabajo es arreglarlos ;-)
+
+Abrid la clase de test en test_src/org/formacion/TestAgrupador.java para 
+ver el enunciado.
+
+Suerte !

@@ -1,0 +1,6 @@
+En esta lección veremos como es el mundo sin nulls.
+
+Como siempre: Encontrareis las instrucciones en
+test_src/org/formacion/TestOptional.java
+
+suerte!

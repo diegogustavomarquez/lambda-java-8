@@ -1,0 +1,7 @@
+En este ejercicio teneis que completar el código que encontrareis en:
+
+src/org/formacion/PersonaUtil.java
+
+Los métodos tienen un comentario javadoc indicando lo que deben hacer.
+
+Como siempre, tenéis un test para realizar las pruebas.

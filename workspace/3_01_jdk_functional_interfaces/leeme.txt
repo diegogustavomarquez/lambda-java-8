@@ -1,0 +1,5 @@
+Ya conoceis el protocolo: en el test encontrareis las instrucciones.
+
+Este ejercicio, a diferencia de los otros, no es 100% autocorregible.
+
+Algunos ejercicios deberéis escribir código no validado por el test. Usad el foro del curso si necesitais más ayuda!

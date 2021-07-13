@@ -1,0 +1,9 @@
+En src/org/formacion/ReduccionesUtil.java encontrareis un código que debereis completar.
+
+Los comentarios de los metodos os daran las instrucciones. 
+
+En ambos casos debereis usar una estructura mutable (modificable) declarada fuera del pipeline.
+Después construir el stream, realizar (si es necesario) operaciones intermedias y después, 
+como operación terminal, usar una operación que modifique la estructura mutable.
+
+suerte!
